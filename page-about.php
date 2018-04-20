@@ -38,7 +38,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="/assets/img/rolunk/bemutatotermunk-1.jpg" alt="Bemutatótermünk">
+                            <img src="http://www.lafenice.hu/assets/img/rolunk/bemutatotermunk.jpg">
                         </div>
 
 
@@ -122,7 +122,7 @@ include('header.php');
 
                     </div>
                 </div>
-                
+
 
             </div>
 
