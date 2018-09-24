@@ -49,7 +49,7 @@ if ($index_page) {
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset;=latin,cyrillic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
         <!-- Google Map -->
-        
+
 
     </head>
     <body>
@@ -81,6 +81,7 @@ if ($index_page) {
                                 <!-- <li class="active"><a href="index.html">Home</a></li> -->
                                 <li><a href="<?= URL?>/about">About</a></li>
                                 <li><a href="<?= URL?>/services">Services</a></li>
+                                <li><a href="<?= URL?>/products">Products</a></li>
                                 <li><a href="<?= URL?>/references">References</a></li>
                                 <li><a href="<?= URL?>/contact">Contact</a></li>
 
