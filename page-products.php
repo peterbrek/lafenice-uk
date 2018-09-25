@@ -264,6 +264,18 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/lucia.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Lucia</h5>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/lucia-2.jpg" alt="">
                     </div>
                     <div class="team-caption">
@@ -285,17 +297,7 @@ include('header.php');
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/lucia.jpg" alt="">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Lucia</h5>
 
-                    </div>
-                </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
@@ -348,6 +350,18 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/zahira.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Zahira</h5>
+
+                    </div>
+                </div>
+                
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/zahira-2.jpg" alt="">
                     </div>
                     <div class="team-caption">
@@ -357,17 +371,7 @@ include('header.php');
                     </div>
                 </div>
 
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/zahira.jpg" alt="">
-                    </div>
-                    <div class="team-caption">
-                        <!-- Info -->
-                        <h5>Zahira</h5>
 
-                    </div>
-                </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
