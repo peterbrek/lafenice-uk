@@ -10,9 +10,6 @@ include('header.php');
 
 
 
-<!-- Site Wrapper -->
-<div class="site-wrapper">
-
 
 
     <!-- Additional Services -->
@@ -358,7 +355,7 @@ include('header.php');
 
                     </div>
                 </div>
-                
+
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
@@ -585,11 +582,6 @@ include('header.php');
     </section>
     <!-- End Additional Services -->
 
-
-
-
-</div><!-- /site-wrapper -->
-<!-- End Site Wrapper -->
 
 
 
