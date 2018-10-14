@@ -40,8 +40,9 @@ include('header.php');
                         <address>
                             <p>
                                 <a href="mailto:info@lafeniceinteriors.co.uk"><i class="fa fa-envelope-o"></i>info@lafeniceinteriors.co.uk</a><br>
+                                <i class="fa fa-phone"></i>0791 481 4683<br><br>
                                 <a href="mailto:tiles@lafeniceinteriors.co.uk"><i class="fa fa-envelope-o"></i>tiles@lafeniceinteriors.co.uk</a><br>
-                                <i class="fa fa-phone"></i>0791 481 4683<br>
+                                <i class="fa fa-phone"></i>0749 766 2693<br>
 
                             </p>
                         </address>

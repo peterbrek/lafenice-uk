@@ -6,8 +6,6 @@ include('header.php');
 ?>
 
 
-
-
 <!-- Section General Title -->
 <div class="general-title bg-color">
     <h2>References</h2>
@@ -22,11 +20,11 @@ include('header.php');
         <div class="row">
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
-              <a href="<?= URL?>/belvarosi-lakas">
+              <a href="/belvarosi-lakas">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="http://www.lafenice.hu/assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg" alt="Belvárosi lakás">
+                  <img src="../assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg" alt="Belvárosi lakás">
 
               </div>
               <div class="project-inner-caption">
@@ -45,11 +43,11 @@ include('header.php');
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
-              <a href="<?= URL?>/tarsashazi-lakas">
+              <a href="/tarsashazi-lakas">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="http://www.lafenice.hu/assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg" alt="Budai társasházi lakás">
+                  <img src="../assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg" alt="Budai társasházi lakás">
 
               </div>
               <div class="project-inner-caption">
@@ -68,11 +66,11 @@ include('header.php');
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
-              <a href="<?= URL?>/modern-haz">
+              <a href="/modern-haz">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="http://www.lafenice.hu/assets/img/portfolio/17_modern_haz/modern-haz-2.jpg" alt="Modern családi ház">
+                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="Modern családi ház">
 
               </div>
               <div class="project-inner-caption">
@@ -91,11 +89,11 @@ include('header.php');
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
-              <a href="<?= URL?>/videki-csaladi-haz">
+              <a href="/videki-csaladi-haz">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="http://www.lafenice.hu/assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
+                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
 
               </div>
               <div class="project-inner-caption">
@@ -115,11 +113,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/andrassy-uti-penthouse">
+                <a href="/andrassy-uti-penthouse">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg" alt="Andrássy úti penthouse">
+                    <img src="../assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg" alt="Andrássy úti penthouse">
 
                 </div>
                 <div class="project-inner-caption">
@@ -136,17 +134,17 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-lakas">
+                <a href="/spanyol-nyaralo">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg" alt="Budai lakás">
+                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="Summer house in Spain">
 
                 </div>
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Hillside flat</h3>
+                        <h3>Summer house in Spain</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -157,11 +155,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/toparti-nyaralo">
+                <a href="/toparti-nyaralo">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="Tóparti nyaraló">
+                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="Tóparti nyaraló">
 
                 </div>
                 <div class="project-inner-caption">
@@ -178,11 +176,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/cordia-galerias-lakas">
+                <a href="/cordia-galerias-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="Cordia galériás lakás">
+                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="Cordia galériás lakás">
 
                 </div>
                 <div class="project-inner-caption">
@@ -199,11 +197,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/obudai-lakas">
+                <a href="/obudai-lakas">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg" alt="Óbudai lakás">
+                    <img src="../assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg" alt="Óbudai lakás">
 
                 </div>
                 <div class="project-inner-caption">
@@ -220,11 +218,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/szemlohegyliget">
+                <a href="/szemlohegyliget">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/07_szemlohegyliget/szemlohegyliget-1.jpg" alt="Szemlőhegyliget">
+                    <img src="../assets/img/portfolio/07_szemlohegyliget/szemlohegyliget-1.jpg" alt="Szemlőhegyliget">
 
                 </div>
                 <div class="project-inner-caption">
@@ -243,11 +241,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-villa">
+                <a href="/budai-villa">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/08_budai-villa/budai-villa-1.jpg" alt="Budai villa">
+                    <img src="../assets/img/portfolio/08_budai-villa/budai-villa-1.jpg" alt="Budai villa">
 
                 </div>
                 <div class="project-inner-caption">
@@ -301,14 +299,34 @@ include('header.php');
     <div class="container">
         <div class="row">
 
+          <!-- Project Item (image, title, city, date and description of project)-->
+          <div class="col-sm-6 col-md-4 project-item">
+              <a href="/stand-etterem">
+              <div class="thumbnail projects-thumbnail">
+
+                  <!-- Image -->
+                  <img src="../assets/img/portfolio/20_stand-etterem/stand-etterem-1.jpg" alt="STAND Restaurant">
+
+              </div>
+              <div class="project-inner-caption">
+                  <!-- Title -->
+                  <div class="project-title-pos">
+                      <h3>STAND Restaurant</h3>
+                      <p>&nbsp;</p>
+                  </div>
+                  <!-- City and Date -->
+
+              </div>
+          </a>
+          </div>
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/budai-bevasarlokozpont-uzlete">
+                <a href="/budai-bevasarlokozpont-uzlete">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/09_kozuleti_budai-bevasarlokozpont-uzlete/kozuleti_budai-bevasarlokozpont-uzlete-1.jpg" alt="Budai Bevásárlóközpont">
+                    <img src="../assets/img/portfolio/09_kozuleti_budai-bevasarlokozpont-uzlete/kozuleti_budai-bevasarlokozpont-uzlete-1.jpg" alt="Budai Bevásárlóközpont">
 
                 </div>
                 <div class="project-inner-caption">
@@ -325,11 +343,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/mirage-hotel-sarvar">
+                <a href="/mirage-hotel-sarvar">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/10_kozuleti_mirage-hotel-sarvar/kozuleti_mirage-hotel-sarvar-1.jpg" alt="Mirage Hotel Sárvár">
+                    <img src="../assets/img/portfolio/10_kozuleti_mirage-hotel-sarvar/kozuleti_mirage-hotel-sarvar-1.jpg" alt="Mirage Hotel Sárvár">
 
                 </div>
                 <div class="project-inner-caption">
@@ -345,33 +363,33 @@ include('header.php');
             </div>
 
             <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/golfklub">
+            <!-- <div class="col-sm-6 col-md-4 project-item">
+                <a href="/golfklub">
                 <div class="thumbnail projects-thumbnail">
 
-                    <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/11_kozuleti_golfklub/kozuleti_golfklub-1.jpg" alt="Pannónia Golf & Country Club">
+
+                    <img src="../assets/img/portfolio/11_kozuleti_golfklub/kozuleti_golfklub-1.jpg" alt="Pannónia Golf & Country Club">
 
                 </div>
                 <div class="project-inner-caption">
-                    <!-- Title -->
+
                     <div class="project-title-pos">
                         <h3>Pannónia Golf & Country Club</h3>
                         <p>&nbsp;</p>
                     </div>
-                    <!-- City and Date -->
+
 
                 </div>
             </a>
-            </div>
+            </div> -->
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/st-andrea-borbar">
+                <a href="/st-andrea-borbar">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár">
+                    <img src="../assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár">
 
                 </div>
                 <div class="project-inner-caption">
@@ -388,11 +406,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/paulaner-etterem">
+                <a href="/paulaner-etterem">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem">
+                    <img src="../assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem">
 
                 </div>
                 <div class="project-inner-caption">
@@ -409,11 +427,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/duna-garden-hotel-etterem">
+                <a href="/duna-garden-hotel-etterem">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem">
+                    <img src="../assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem">
 
                 </div>
                 <div class="project-inner-caption">
@@ -452,11 +470,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/plisse-blinds">
+                <a href="/plisse-blinds">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/15_pliszek/pliszek-1b.jpg" alt="Pliszék">
+                    <img src="../assets/img/portfolio/15_pliszek/pliszek-1b.jpg" alt="Pliszék">
 
                 </div>
                 <div class="project-inner-caption">
@@ -473,11 +491,11 @@ include('header.php');
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="<?= URL?>/wallpapers">
+                <a href="/wallpapers">
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="http://www.lafenice.hu/assets/img/portfolio/16_tapetak/tapetak-1b.jpg" alt="Tapéták">
+                    <img src="../assets/img/portfolio/16_tapetak/tapetak-1b.jpg" alt="Tapéták">
 
                 </div>
                 <div class="project-inner-caption">
@@ -502,15 +520,6 @@ include('header.php');
 
 </div><!-- /site-wrapper -->
 <!-- End Site Wrapper -->
-
-
-
-
-
-
-
-
-
 
 
 

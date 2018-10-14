@@ -4,7 +4,7 @@
                 <div class="row">
                     <!-- Copyright -->
                     <div class="col-xs-4">
-                        <p>Copyright 2016 © La Fenice Ltd.</p>
+                        <p>Copyright © La Fenice Ltd.</p>
                     </div>
                     <!-- Footer Social Icons -->
                     <div class="col-xs-4 text-center">
@@ -25,13 +25,13 @@
         <!-- End Footer -->
 
         <!-- Js Global Compulsory  -->
-        <script src="<?= URL?>/assets/plugins/jquery-1.11.1.min.js"></script>
-        <script src="<?= URL?>/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+        <script src="/assets/plugins/jquery-1.11.1.min.js"></script>
+        <script src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
         <!-- Js Implementing Plugins  -->
-        <script src="<?= URL?>/assets/plugins/moderniz.js"></script>
-        <script src="<?= URL?>/assets/plugins/lightbox/js/lightbox.js"></script>
+        <script src="/assets/plugins/moderniz.js"></script>
+        <script src="/assets/plugins/lightbox/js/lightbox.js"></script>
         <!-- Js Theme  -->
-        <script src="<?= URL?>/assets/js/app.js"></script>
+        <script src="/assets/js/app.js"></script>
 
         <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

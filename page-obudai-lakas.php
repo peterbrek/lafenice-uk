@@ -88,7 +88,7 @@ A konyhában alkalmazkodva a letisztult formákhoz római rolót használtunk. A
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">
-                    <a href="<?= URL?>/references" class="btn black-btn">See all our references</a>
+                    <a href="/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>

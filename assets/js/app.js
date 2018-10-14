@@ -9,7 +9,7 @@ $(window).scroll(function(){
 			$("#back-to-top").fadeOut(600);
 		}
 	});
-	
+
 	$('#back-to-top, .back-to-top').click(function() {
 		  $('html, body').animate({ scrollTop:0 }, '1000');
 		  return false;
@@ -55,48 +55,3 @@ jQuery(document).ready(function(){
 	});
 
 });
-
-/* ==============================================
-Google Maps
-=============================================== */
-
-	function initialize() {
-	var myLatlng = new google.maps.LatLng(47.502881, 19.061174); // Change your location Latitude and Longitude 
-	var mapOptions = {
-	zoom: 15,
-	center: myLatlng
-	}
-	var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-
-// Disabled Map Scroll in Contact Page 
-	map.setOptions({'scrollwheel': false});
-
-// Black and White style for Google Map
-	var styles = [
-	{
-	stylers: [
-	{ saturation: -100 }
-	]
-	},{
-	featureType: "road",
-	elementType: "geometry",
-	stylers: [
-	{ lightness: -8 },
-	{ visibility: "simplified" }
-	]
-	},{
-	featureType: "road",
-	elementType: "labels",
-	}
-	];
-	map.setOptions({styles: styles});
-
-// Google Map Maker 
-	var marker = new google.maps.Marker({
-	position: myLatlng,
-	map: map,
-	});
-	}
-
-	google.maps.event.addDomListener(window, 'load', initialize);
-
