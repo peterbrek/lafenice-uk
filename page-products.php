@@ -27,7 +27,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/fuggonyanyagok.jpg" alt="Függönyanyagok">
+                        <img src="http://lafenice.hu/assets/img/termekek/fuggonyanyagok.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
@@ -191,11 +191,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/alba.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Alba</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -203,11 +203,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/belen.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Belen</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -215,11 +215,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/carla.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Carla</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -227,11 +227,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/celia.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Celia</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -239,11 +239,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/fatima.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Fatima</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -251,11 +251,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/laura.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Laura</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -263,11 +263,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/lucia.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Lucia</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -275,11 +275,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/lucia-2.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Lucia 2</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -287,11 +287,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/lucia-3.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Lucia 3</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
 
@@ -301,11 +301,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/maria.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Maria</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -313,11 +313,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/marta.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Marta</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -325,11 +325,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/sandra.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Sandra</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -337,11 +337,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/serezade.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Serezade</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -349,11 +349,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/zahira.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Zahira</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="col-sm-6 col-md-3 team-item">
@@ -361,11 +361,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/zahira-2.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Zahira 2</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
 
@@ -375,11 +375,11 @@ include('header.php');
                     <div class="thumbnail team-inner">
                         <img src="/assets/img/termekek/zulu.jpg" alt="">
                     </div>
-                    <div class="team-caption">
-                        <!-- Info -->
+                    <!-- <div class="team-caption">
+
                         <h5>Zulu</h5>
 
-                    </div>
+                    </div> -->
                 </div>
 
             </div>
@@ -583,7 +583,63 @@ include('header.php');
     <!-- End Additional Services -->
 
 
+    <!-- Our Clients -->
+    <div class="container text-center padding-top padding-bottom">
+      <div class="general-title-small">
+          <h2>Brands</h2>
+          <div class="title-divider"></div>
+      </div>
+        <div class="row">
 
+
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="http://www.jab.de/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/jab-logo.jpg" width="160px">
+                </a>
+            </div>
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="http://www.fischbacher.com/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/fsb-logo.jpg" width="160px">
+                </a>
+            </div>
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="https://www.renson-outdoor.com/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/renson-logo.jpg" width="160px">
+                </a>
+            </div>
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="https://www.houles.com/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/houles-logo.jpg" width="160px">
+                </a>
+            </div>
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="http://www.leha.eu/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/leha-logo.jpg" width="160px">
+                </a>
+            </div>
+
+            <!-- Client Image -->
+            <div class="col-sm-6 col-md-2">
+                <a href="http://www.sanelin.com/" target="_blank">
+                    <img src="http://www.lafenice.hu/assets/img/termekek/sanelin-logo.jpg" width="160px">
+                </a>
+            </div>
+
+
+
+        </div><!-- /row -->
+    </div><!-- /container -->
+    <!-- End Our Clients -->
 
 
 
