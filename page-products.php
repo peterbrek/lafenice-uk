@@ -189,7 +189,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/alba.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-1.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -201,7 +201,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/belen.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-2.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -213,7 +213,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/carla.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-2A.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -225,7 +225,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/celia.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-3.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -237,7 +237,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/fatima.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-4.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -249,7 +249,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/laura.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-5.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -261,7 +261,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/lucia.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-6.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -273,7 +273,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/lucia-2.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-7.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -285,7 +285,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/lucia-3.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-9.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -299,7 +299,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/maria.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-10.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -311,7 +311,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/marta.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-11.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -323,7 +323,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/sandra.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-12.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -335,7 +335,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/serezade.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-13.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -347,7 +347,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/zahira.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-14.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -359,7 +359,7 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/zahira-2.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-15.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
@@ -373,13 +373,57 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/zulu.jpg" alt="">
+                        <img src="/assets/img/termekek/tiles-16.jpg" alt="">
                     </div>
                     <!-- <div class="team-caption">
 
                         <h5>Zulu</h5>
 
                     </div> -->
+                </div>
+
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-17.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-18.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-19.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-20.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-21.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-22.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="/assets/img/termekek/tiles-23.jpg" alt="">
+                    </div>
                 </div>
 
             </div>
