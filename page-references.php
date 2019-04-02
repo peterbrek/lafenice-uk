@@ -495,7 +495,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/16_tapetak/tapetak-1b.jpg" alt="Tapéták">
+                    <img src="../assets/img/portfolio/16_tapetak/tapetak-6b.jpg" alt="Tapéták">
 
                 </div>
                 <div class="project-inner-caption">

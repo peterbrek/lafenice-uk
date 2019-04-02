@@ -27,6 +27,21 @@ include('header.php');
                     <!-- Project Image Gallery (for more images in your gallery, image width can be changed in styles.css class gallery-inner) -->
                     <div class="col-sm-12">
                         <ul class="gallery-inner">
+
+                            <!-- Image 1 -->
+                            <li>
+                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
+                            <!-- Image 1 -->
+                            <li>
+                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6b.jpg" alt="<?=$page_title ?>">
+                                </a>
+                            </li>
+
                             <!-- Image 1 -->
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
