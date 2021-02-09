@@ -18,6 +18,93 @@ include('header.php');
     <!-- Projects -->
     <div class="container">
         <div class="row">
+        
+        <!-- Project Item (image, title, city, date and description of project)-->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-luxury-apartment-by-hyde-park">
+                <div class="thumbnail projects-thumbnail">
+                <img src="../assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – Hyde Park apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+
+            <!-- Project Item (image, title, city, date and description of project)-->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/dunaparti-lakoparki-lakas">
+                <div class="thumbnail projects-thumbnail">
+
+                    <!-- Image -->
+                    <img src="../assets/img/portfolio/24_dunaparti-lakoparki-lakas/dunaparti-lakoparki-lakas-1b.jpg">
+
+                </div>
+                <div class="project-inner-caption">
+                    <!-- Title -->
+
+                        <div class="project-title-pos">
+                        <h3>Condominium by the Danube</h3>
+                        <p>&nbsp;</p>
+                        </div>
+
+                    <!-- City and Date -->
+
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item (image, title, city, date and description of project)-->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-apartment-in-kensington">
+                <div class="thumbnail projects-thumbnail">
+
+                    <!-- Image -->
+                    <img src="../assets/img/portfolio/25_london-apartment-in-kensington/london-apartment-in-kensington-1b.jpg">
+
+                </div>
+                <div class="project-inner-caption">
+                    <!-- Title -->
+
+                        <div class="project-title-pos">
+                        <h3>London – apartment in Kensington</h3>
+                        <p>&nbsp;</p>
+                        </div>
+
+                    <!-- City and Date -->
+
+                </div>
+                </a>
+            </div>
+
+            <!-- Project Item (image, title, city, date and description of project)-->
+            <div class="col-sm-6 col-md-4 project-item">
+                <a href="/pesti-nagypolgari-lakas">
+                <div class="thumbnail projects-thumbnail">
+
+                    <!-- Image -->
+                    <img src="../assets/img/portfolio/26_pesti-nagypolgari-lakas/pesti-nagypolgari-lakas-1b.jpg">
+
+                </div>
+                <div class="project-inner-caption">
+                    <!-- Title -->
+
+                        <div class="project-title-pos">
+                        <h3>Elegant designed apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+
+                    <!-- City and Date -->
+
+                </div>
+                </a>
+            </div>
+
+
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
@@ -41,6 +128,7 @@ include('header.php');
               </div>
               </a>
           </div>
+
 
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
@@ -94,7 +182,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="Modern családi ház">
+                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -117,7 +205,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="Vidéki családi ház">
+                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -162,7 +250,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="Summer house in Spain">
+                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -183,7 +271,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="Tóparti nyaraló">
+                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -204,7 +292,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="Cordia galériás lakás">
+                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -219,26 +307,7 @@ include('header.php');
             </a>
             </div>
 
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/obudai-lakas">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg" alt="Óbudai lakás">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Loft in Buda-side</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
+            
 
             <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">

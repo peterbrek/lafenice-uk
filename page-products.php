@@ -1,15 +1,13 @@
 <?php
 $page_title = 'Products';
-$page_description = 'Exclusive home textiles, curtain fabrics';
+$page_description = '';
 $page_keywords = '';
 include('header.php');
 ?>
 
 
-
-
-
-
+<!-- Site Wrapper -->
+<!-- <div class="site-wrapper"> -->
 
 
     <!-- Additional Services -->
@@ -24,14 +22,18 @@ include('header.php');
         <div class="container">
             <div class="row">
 
+
+
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="http://lafenice.hu/assets/img/termekek/fuggonyanyagok.jpg" alt="">
+                        <img src="../assets/img/termekek/fuggonyanyagok.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Drapes and sheers</h5>
+                        <h5><a href="https://www.houles.com/HU-en/fabrics">Houlès</a>&nbsp;&nbsp;&nbsp;<a href="https://www.jab.de/hu/en">JAB</a></h5>
+                        <h5><a href="https://www.fischbacher.com/en/">Christian Fischbacher</a></h5>
 
                     </div>
                 </div>
@@ -39,11 +41,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/karpitanyagok.jpg" alt="Kárpitanyagok">
+                        <img src="../assets/img/termekek/karpitanyagok.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Upholstery fabrics</h5>
+                        <h5><a href="https://www.jab.de/hu/en">JAB</a>&nbsp;&nbsp;&nbsp;<a href="https://www.houles.com/HU-en/fabrics">Houlès</a></h5>
 
                     </div>
                 </div>
@@ -52,11 +55,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/kulterianyagok.jpg" alt="Kültéri anyagok">
+                        <img src="../assets/img/termekek/kulterianyagok.jpg" alt="Kültéri anyagok">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Outdoor fabrics</h5>
+                        <h5><a href="https://www.sunbrella.com/">Sunbrella</a></h5>
 
                     </div>
                 </div>
@@ -65,30 +69,39 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tapetak.jpg" alt="Tapéták">
+                        <img src="../assets/img/termekek/tapetak.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Wallpapers</h5>
-
+                        <h5><a href="https://www.phillipjeffries.com/">Phillip Jeffries</a>&nbsp;&nbsp;<a href="http://www.casamance.com/en/collections/">Casamance</a></h5>
+                        <h5><a href="https://www.cole-and-son.com/en/">Cole and Son</a></h5>
                     </div>
                 </div>
 
-            </div>
 
-            <div class="row">
+              <div class="col-sm-6 col-md-3 team-item">
+                  <!-- Image -->
+                  <div class="thumbnail team-inner">
+                      <img src="../assets/img/termekek/posztertapetak.jpg" alt="">
+                  </div>
+                  <div class="team-caption-ext">
+                      <!-- Info -->
+                      <h5>Wall murals</h5>
+                      <h5><a href="http://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
 
+                  </div>
+              </div>
 
-
-
-                <div class="col-sm-6 col-md-3 team-item col-md-offset-1">
+                <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/karnisok.jpg" alt="Specifie an alternate text for an image">
+                        <img src="../assets/img/termekek/karnisok.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Curtain rods</h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -97,24 +110,78 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item col-md-offset-0 col-sm-offset-0">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/kiegeszitok.jpg" alt="Kiegészítők">
+                        <img src="../assets/img/termekek/kiegeszitok.jpg" alt="">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Accessories</h5>
-
+                        <h5><a href="https://www.sanelin.com/">Sanelin</a>&nbsp;&nbsp;<a href="https://www.fischbacher.com/en/">Christian Fischbacher</a></h5>
+                        <h5><a href="https://www.designersguild.com/uk/lifestyle/l1187">Designers Guild</a></h5>
                     </div>
                 </div>
-
 
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/gyerekszoba.jpg" alt="Gyerekszobai termékek">
+                        <img src="../assets/img/termekek/lampak.jpg">
                     </div>
-                    <div class="team-caption">
+                    <div class="team-caption-ext">
                         <!-- Info -->
-                        <h5>Kids' room</h5>
+                        <h5>Glass lighting</h5>
+                        <h5><a href="https://rothschildbickers.com/">Rothschild & Bickers</a></h5>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/design-falfestekek.jpg" alt="">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Design paints</h5>
+                        <h5><a href="https://www.designersguild.com/uk/perfectly-plain-paint/l1405">Designers Guild</a></h5>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/design-szegelylecek.jpg" alt="">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Design mouldings</h5>
+                        <h5><a href="https://www.oracdecor.com/">Orac Decor</a></h5>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/karpitos-butorok.jpg" alt="">
+                    </div>
+                    <div class="team-caption-ext">
+                        <h5>Upholstered furnitures</h5>
+                        <h5><a href="/upholstered-furnitures">Models</a></h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/len-termekek.jpg" alt="">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Linen products</h5>
+                        <h5><a href="https://www.sanelin.com/">Sanelin</a></h5>
+
 
                     </div>
                 </div>
@@ -125,6 +192,341 @@ include('header.php');
 
 
         </div><!-- /container -->
+
+
+
+<!-- Section General Title -->
+<div class="general-title-small">
+            <h2>Hotel furniture</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-chairs.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Chairs</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/chairs/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-armchairs.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Armchairs</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/armchairs/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-stools.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Stools</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/stools/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-tables.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Tables</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/tables/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-lounge-chair.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Lounge chairs</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/lounge-chair/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-pouff.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Pouff</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/lounge-chair/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-sofas.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Sofas</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/sofas-en/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/hotel-sofa-bed.jpg">
+                    </div>
+                    <div class="team-caption-ext">
+                        <!-- Info -->
+                        <h5>Sofa bed</h5>
+                        <h5><a href="https://www.tmsillerias.com/en/tipo/sofa-bed/">TM Sillerias</a></h5>
+                    </div>
+                </div>
+                
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+        <!-- Section General Title -->
+        <!-- <div class="general-title-small">
+            <h2>Kárpitos bútorok</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/agatha-1.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Agatha 1</h5>
+
+
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/amelia-5.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Amelia 5</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/elton-2.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Elton 2</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/genoa-3.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Genoa 3</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/grosvenor-6.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Grosvenor 6</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/jacob-8.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Jacob 8</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/monaco-7.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Monaco 7</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/portofino-4.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <h5>Portofino 4</h5>
+
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div> -->
+
+
+
+
+
+
+
+
+
+
+        <!-- Section General Title -->
+        <div class="general-title-small">
+            <h2>Floors</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/designpadlok.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Design floors</h5>
+
+
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/fapadlo.jpg" alt="">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Wooden floors</h5>
+
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/wpc-kulteri-burkolatok.jpg" alt="WPC kültéri burkolatok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>WPC outdoor deckings</h5>
+
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Section General Title -->
+        <div class="general-title-small">
+            <h2>Tiles</h2>
+            <div class="title-divider"></div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-6 col-md-3 team-item col-md-offset-3">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/kerlite.jpg" alt="Kerlite">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Kerlite</h5>
+
+
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 col-md-3 team-item">
+                    <!-- Image -->
+                    <div class="thumbnail team-inner">
+                        <img src="../assets/img/termekek/marrakesh-cementlapok.jpg" alt="Cementlapok">
+                    </div>
+                    <div class="team-caption">
+                        <!-- Info -->
+                        <h5>Encaustic tiles</h5>
+
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+
 
 
 
@@ -141,11 +543,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item col-md-offset-3">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/padloszonyeg.jpg" alt="Padlószőnyeg">
+                        <img src="../assets/img/termekek/padloszonyeg.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Wall to wall carpets</h5>
+                        <h5><a href="https://www.jab.de/gb/en/productadvancedsearch?searchTerm=&r=08&page=1">JAB</a>&nbsp;&nbsp;<a href="https://www.egecarpets.com/">EgeCarpets</a></h5>
 
                     </div>
                 </div>
@@ -154,11 +557,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/kozepszonyeg.jpg" alt="Középszőnyeg">
+                        <img src="../assets/img/termekek/kozepszonyeg.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Rugs</h5>
+                        <h5><a href="http://www.carpetedition.com/homepage.html">Carpet Edition</a>&nbsp;&nbsp;<a href="https://www.warli.it/">Warli</a></h5>
 
                     </div>
                 </div>
@@ -173,13 +577,9 @@ include('header.php');
         </div>
 
 
-
-
-
-
         <!-- Section General Title -->
         <div class="general-title-small">
-            <h2>Tiles</h2>
+            <h2>OUTDOOR SHADES</h2>
             <div class="title-divider"></div>
         </div>
 
@@ -189,272 +589,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-1.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Alba</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-2.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Belen</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-2A.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Carla</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-3.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Celia</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-4.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Fatima</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-5.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Laura</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-6.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Lucia</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-7.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Lucia 2</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-9.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Lucia 3</h5>
-
-                    </div> -->
-                </div>
-
-
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-10.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Maria</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-11.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Marta</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-12.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Sandra</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-13.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Serezade</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-14.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Zahira</h5>
-
-                    </div> -->
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-15.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Zahira 2</h5>
-
-                    </div> -->
-                </div>
-
-
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-16.jpg" alt="">
-                    </div>
-                    <!-- <div class="team-caption">
-
-                        <h5>Zulu</h5>
-
-                    </div> -->
-                </div>
-
-
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-17.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-18.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-19.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-20.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-21.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-22.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/tiles-23.jpg" alt="">
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-
-
-
-
-
-
-
-
-        <!-- Section General Title -->
-        <div class="general-title-small">
-            <h2>Outdoor shades</h2>
-            <div class="title-divider"></div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-
-                <div class="col-sm-6 col-md-3 team-item">
-                    <!-- Image -->
-                    <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/redony.jpg" alt="Redőny">
+                        <img src="../assets/img/termekek/redony.jpg" alt="Roll up shutter">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Roll up shutter</h5>
+                        <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
 
                     </div>
                 </div>
@@ -463,11 +603,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/zsaluzia.jpg" alt="Zsalúzia">
+                        <img src="../assets/img/termekek/zsaluzia.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Folding shutter</h5>
+                        <h5>Folding shutter </h5>
+                        <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
 
                     </div>
                 </div>
@@ -476,11 +617,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/napellenzo.jpg" alt="Napellenző">
+                        <img src="../assets/img/termekek/napellenzo.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Sun-blind</h5>
+                        <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
 
                     </div>
                 </div>
@@ -489,11 +631,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/szunyoghalo.jpg" alt="Szúnyogháló">
+                        <img src="../assets/img/termekek/szunyoghalo.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Mosquito-net </h5>
+                        <h5>Mosquito-net</h5>
+                        <h5><a href="https://www.renson-outdoor.com/">Renson</a></h5>
 
                     </div>
                 </div>
@@ -507,15 +650,9 @@ include('header.php');
 
 
 
-
-
-
-
-
-
         <!-- Section General Title -->
         <div class="general-title-small">
-            <h2>Indoor shades and blinds</h2>
+            <h2>INDOOR SHADES AND BLINDS</h2>
             <div class="title-divider"></div>
         </div>
 
@@ -525,11 +662,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/roletta.jpg" alt="Roletta">
+                        <img src="../assets/img/termekek/roletta.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Roller blind </h5>
+                        <h5>Roller blind</h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -538,11 +676,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/szalagfuggony.jpg" alt="Szalagfüggöny">
+                        <img src="../assets/img/termekek/szalagfuggony.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Vertical blind</h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -551,11 +690,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/lapfuggony.jpg" alt="Lapfüggöny">
+                        <img src="../assets/img/termekek/lapfuggony.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Patterned panel blinds</h5>
+                        <h5>Patterned panel blinds </h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -564,11 +704,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/reluxa.jpg" alt="Reluxa">
+                        <img src="../assets/img/termekek/reluxa.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
-                        <h5>Venetian blinds</h5>
+                        <h5>Venetian blinds </h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -581,11 +722,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item col-md-offset-3">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/plisze.jpg" alt="Pliszé">
+                        <img src="../assets/img/termekek/plisze.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Plisse blinds</h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -594,11 +736,12 @@ include('header.php');
                 <div class="col-sm-6 col-md-3 team-item">
                     <!-- Image -->
                     <div class="thumbnail team-inner">
-                        <img src="/assets/img/termekek/savrolo.jpg" alt="Sávroló">
+                        <img src="../assets/img/termekek/savrolo.jpg" alt="">
                     </div>
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Twin blinds</h5>
+                        <h5><a href="https://leha.eu/products/curtain-rails-rods/">LEHA</a></h5>
 
                     </div>
                 </div>
@@ -635,55 +778,68 @@ include('header.php');
       </div>
         <div class="row">
 
-
-
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-offset-3 col-md-2">
                 <a href="http://www.jab.de/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/jab-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/jab-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.fischbacher.com/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/fsb-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/fsb-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="https://www.renson-outdoor.com/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/renson-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/renson-logo.jpg" width="160px">
                 </a>
             </div>
+            </div>
+        <div class="row">
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-offset-3 col-md-2">
                 <a href="https://www.houles.com/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/houles-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/houles-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.leha.eu/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/leha-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/leha-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
-            <div class="col-sm-6 col-md-2">
+            <div class="col-sm-4 col-md-2">
                 <a href="http://www.sanelin.com/" target="_blank">
-                    <img src="http://www.lafenice.hu/assets/img/termekek/sanelin-logo.jpg" width="160px">
+                    <img src="../assets/img/termekek/sanelin-logo.jpg" width="160px">
                 </a>
             </div>
-
+            </div>
+        <div class="row">
+            <!-- Client Image  -->
+            <div class="col-sm-4 col-md-offset-5 col-sm-offset-4 col-md-2">
+                <a href="https://www.tmsillerias.com/en/" target="_blank">
+                    <img src="../assets/img/termekek/grupotm-logo.jpg" width="160px">
+                </a>
+            </div>
 
 
         </div><!-- /row -->
     </div><!-- /container -->
     <!-- End Our Clients -->
+
+<!-- </div> -->
+<!-- /site-wrapper -->
+<!-- End Site Wrapper -->
+
+
 
 
 
