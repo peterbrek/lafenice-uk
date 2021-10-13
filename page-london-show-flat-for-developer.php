@@ -1,7 +1,7 @@
 <?php
-$page_title = 'London – Hyde Park apartment';
-$project_name = 'london-luxury-apartment-by-hyde-park';
-$project_folder = '23_london-luxury-apartment-by-hyde-park';
+$page_title = 'London show flat for developer';
+$project_name = 'london-show-flat-for-developer';
+$project_folder = '29_london-show-flat-for-developer';
 $page_description = '';
 $page_keywords = '';
 include('header.php');
@@ -25,60 +25,50 @@ include('header.php');
                 <div class="row">
 
                     <!-- Project Image Gallery (for more images in your gallery, image width can be changed in styles.css class gallery-inner) -->
-                    <div class="col-sm-12">
+                    <div class="col-sm-7">
                         <ul class="gallery-inner">
                             <!-- Image 1 -->
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>   
 
                             <!-- Image 2 -->
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
-                            <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li> 
-
-                            <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li> 
-
-                            
                             
 
                         </ul>
                     </div>
 
                     <!-- Project Information (location, date, category some information about your project) -->
-                    <!-- <div class="col-sm-5"> -->
+                    <div class="col-sm-5">
                         
                         <!-- Description -->
-                        <!-- <div class="project-description"> -->
-                            <!-- <p>Trendi Designbútorcsomag-unkat választotta kedves Ügyfelünk, melyet a lakás nagy mérete miatt (3 hálószoba) igyekeztünk kiegészíteni a stílussal megegyező egyéb darabokkal, mint pl. íróasztal, szék, stb. A hálószoba függönyeinek színével próbáltuk kihangsúlyozni hogy a lakás nappalija és nagy hálószobája  a vízre néz, ezzel adva különleges hangulatot az egész térnek.  --></p>
-                        <!-- </div> -->
-                    <!-- </div> -->
+                        <div class="project-description">
+                            <p>We fitted wool textiles made by the English company, ANDREW MARTIN for the Desing show flats showcasing the several hundreds of flats in this residential community. To brighten these apartments we fitted striped, checkered and herringbone patterned fabrics and curtains.
+
+
+</p>
+                        </div>
+                    </div>
 
                 </div><!-- row -->    
             </div><!-- /container -->
@@ -93,8 +83,8 @@ include('header.php');
                 
 
                 <!-- View All Projects Button -->
-                <div class="padding-top padding-bottom text-center">  
-                <a href="/references" class="btn black-btn">See all our references</a>
+                <div class="padding-top padding-bottom text-center">
+                    <a href="/en/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>

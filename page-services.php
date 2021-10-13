@@ -22,6 +22,22 @@ include('header.php');
     <!-- Services -->
     <div class="container text-center padding-bottom">
         <div class="row padding-top">
+            
+            <!-- Services Item (icon, title and description for your service) -->
+            <div class="col-sm-4 col-md-4">
+                <!-- Icon -->
+
+                <!-- Title -->
+                
+                    <div class="service-title">
+                        <h3><a href="http://designbutorcsomagok.hu/en/" target="_blank">Design Furniture Packages</a></h3>
+                    </div>
+                </a>
+                <div class="title-divider-small"></div>
+                <!-- Description -->
+                <p>Our furniture packages have been designed by Interior Designers as a full furnishing solution which includes everything required for immediate occupation.</p>
+            </div>
+            
 
             <!-- Services Item (icon, title and description for your service) -->
             <div class="col-sm-4 col-md-4">
@@ -29,11 +45,11 @@ include('header.php');
 
                 <!-- Title -->
                 <div class="service-title">
-                    <h3>Soft Furnishing Fabrics</h3>
+                    <h3>Trading fabrics and home textiles</h3>
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>We use sample swatches for you to choose from. Our partners then deliver the selected material in  a very short time. We also make made-to-measure blinds.</p>
+                <p>We are working after samples. Our partners delivering in short time. We are selling made-to-measure blinds.</p>
             </div>
 
             <!-- Services Item (icon, title and description for your service) -->
@@ -42,42 +58,31 @@ include('header.php');
 
                 <!-- Title -->
                 <div class="service-title">
-                    <h3>Styling And Consultations</h3>
+                    <h3>Styling and consultations</h3>
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>After so many years in the business, and with help from our in-house  Designers, we work with you to to find the best solution for your home! Our unique in-home designs show you how our blinds and curtains will look on your windows before you buy.</p>
+                <p>After so many years in business and with the help of our Designers we help you to find the best solution to your home! On our in-home plans you can see how our blinds and curtains will look at your windows before you buy.
+                </p>
             </div>
 
-            <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4">
-                <!-- Icon -->
-
-                <!-- Title -->
-                <div class="service-title">
-                    <h3>Home Appointments</h3>
-                </div>
-                <div class="title-divider-small"></div>
-                <!-- Description -->
-                <p>One of our Advisors will bring samples directly to you to choose from. They will also take precise measurements to ensure a perfect fit whatever your needs.</p>
-            </div>
+            
 
         </div><!-- /row -->
 
 
         <div class="row padding-top-2">
-
             <!-- Services Item (icon, title and description for your service) -->
-            <div class="col-sm-4 col-md-4 col-md-offset-2">
+            <div class="col-sm-4 col-md-4">
                 <!-- Icon -->
 
                 <!-- Title -->
                 <div class="service-title">
-                    <h3>Sewing and Manufacturing</h3>
+                    <h3>Your home appointment</h3>
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>All our products are made to the highest quality specifications.</p>
+                <p>One of our friendly Advisors will bring you samples to choose from and take precise measurements to ensure a perfect fit and preper the offer.</p>
             </div>
 
             <!-- Services Item (icon, title and description for your service) -->
@@ -86,20 +91,39 @@ include('header.php');
 
                 <!-- Title -->
                 <div class="service-title">
-                    <h3>Expert Fitting</h3>
+                    <h3>Sewing and manufacturing</h3>
                 </div>
                 <div class="title-divider-small"></div>
                 <!-- Description -->
-                <p>When your new designs are ready we’ll come back and fit them at any convenient time.</p>
+                <p>We do all our products in high quality.</p>
             </div>
 
+            <!-- Services Item (icon, title and description for your service) -->
+            <div class="col-sm-4 col-md-4">
+                <!-- Icon -->
+
+                <!-- Title -->
+                <div class="service-title">
+                    <h3>Expert fitting</h3>
+                </div>
+                <div class="title-divider-small"></div>
+                <!-- Description -->
+                <p>When your new window dressings are ready we’ll come back and fit them at a time that is convenient for you.</p>
+            </div>
+
+            
+
         </div><!-- /row -->
+
+
+        
+
 
 
     </div><!-- /container -->
     <!-- End Services -->
 
-    
+
 
 </div><!-- /site-wrapper -->
 <!-- End Site Wrapper -->

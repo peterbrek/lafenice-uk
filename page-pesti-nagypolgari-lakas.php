@@ -29,21 +29,21 @@ include('header.php');
                         <ul class="gallery-inner">
                             <!-- Image 1 -->
                             <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
+                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>   
 
                             <!-- Image 2 -->
                             <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
+                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="../assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
+                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 

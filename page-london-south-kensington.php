@@ -1,7 +1,7 @@
 <?php
-$page_title = 'London – Hyde Park apartment';
-$project_name = 'london-luxury-apartment-by-hyde-park';
-$project_folder = '23_london-luxury-apartment-by-hyde-park';
+$page_title = 'London – South Kensington apartment';
+$project_name = 'london-south-kensington';
+$project_folder = '30_london-south-kensington';
 $page_description = '';
 $page_keywords = '';
 include('header.php');
@@ -29,39 +29,39 @@ include('header.php');
                         <ul class="gallery-inner">
                             <!-- Image 1 -->
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>   
 
                             <!-- Image 2 -->
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6b.jpg" alt="<?=$page_title ?>">
+                                <a href="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
+                                    <img src="assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6b.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
@@ -94,7 +94,7 @@ include('header.php');
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">  
-                <a href="/references" class="btn black-btn">See all our references</a>
+                    <a href="/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>

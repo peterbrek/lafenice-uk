@@ -20,10 +20,26 @@ include('header.php');
         <div class="row">
         
         <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                <a href="/london-south-kensington">
+                <div class="thumbnail projects-thumbnail">
+                <img src="assets/img/portfolio/30_london-south-kensington/london-south-kensington-1b.jpg">
+                </div>
+                <div class="project-inner-caption">
+                        <div class="project-title-pos">
+                        <h3>London – S. Kensington apartment</h3>
+                        <p>&nbsp;</p>
+                        </div>
+                </div>
+                </a>
+            </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
             <div class="col-sm-6 col-md-4 project-item">
                 <a href="/london-luxury-apartment-by-hyde-park">
                 <div class="thumbnail projects-thumbnail">
-                <img src="../assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
+                <img src="/assets/img/portfolio/23_london-luxury-apartment-by-hyde-park/london-luxury-apartment-by-hyde-park-1b.jpg">
                 </div>
                 <div class="project-inner-caption">
                         <div class="project-title-pos">
@@ -41,7 +57,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/24_dunaparti-lakoparki-lakas/dunaparti-lakoparki-lakas-1b.jpg">
+                    <img src="/assets/img/portfolio/24_dunaparti-lakoparki-lakas/dunaparti-lakoparki-lakas-1b.jpg">
 
                 </div>
                 <div class="project-inner-caption">
@@ -64,7 +80,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/25_london-apartment-in-kensington/london-apartment-in-kensington-1b.jpg">
+                    <img src="/assets/img/portfolio/25_london-apartment-in-kensington/london-apartment-in-kensington-1b.jpg">
 
                 </div>
                 <div class="project-inner-caption">
@@ -87,7 +103,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/26_pesti-nagypolgari-lakas/pesti-nagypolgari-lakas-1b.jpg">
+                    <img src="/assets/img/portfolio/26_pesti-nagypolgari-lakas/pesti-nagypolgari-lakas-1b.jpg">
 
                 </div>
                 <div class="project-inner-caption">
@@ -112,7 +128,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/22_belvarosi-design-lakas/tn-belvarosi-design-lakas-1.jpg" alt="">
+                  <img src="/assets/img/portfolio/22_belvarosi-design-lakas/tn-belvarosi-design-lakas-1.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -136,7 +152,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg" alt="Belvárosi lakás">
+                  <img src="/assets/img/portfolio/19_belvarosi_lakas/belvarosi-lakas-2.jpg" alt="Belvárosi lakás">
 
               </div>
               <div class="project-inner-caption">
@@ -159,7 +175,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg" alt="Budai társasházi lakás">
+                  <img src="/assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg" alt="Budai társasházi lakás">
 
               </div>
               <div class="project-inner-caption">
@@ -182,7 +198,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="">
+                  <img src="/assets/img/portfolio/17_modern_haz/modern-haz-5b.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -205,7 +221,7 @@ include('header.php');
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="">
+                  <img src="/assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg" alt="">
 
               </div>
               <div class="project-inner-caption">
@@ -229,7 +245,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg" alt="Andrássy úti penthouse">
+                    <img src="/assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg" alt="Andrássy úti penthouse">
 
                 </div>
                 <div class="project-inner-caption">
@@ -250,7 +266,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="">
+                    <img src="/assets/img/portfolio/21_spanyol-nyaralo/spanyol-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -271,7 +287,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="">
+                    <img src="/assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -292,7 +308,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="">
+                    <img src="/assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg" alt="">
 
                 </div>
                 <div class="project-inner-caption">
@@ -315,7 +331,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/07_szemlohegyliget/szemlohegyliget-1.jpg" alt="Szemlőhegyliget">
+                    <img src="/assets/img/portfolio/07_szemlohegyliget/szemlohegyliget-1.jpg" alt="Szemlőhegyliget">
 
                 </div>
                 <div class="project-inner-caption">
@@ -338,7 +354,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/08_budai-villa/budai-villa-1.jpg" alt="Budai villa">
+                    <img src="/assets/img/portfolio/08_budai-villa/budai-villa-1.jpg" alt="Budai villa">
 
                 </div>
                 <div class="project-inner-caption">
@@ -392,13 +408,90 @@ include('header.php');
     <div class="container">
         <div class="row">
 
+
+
+<!-- Project Item (image, title, city, date and description of project)-->
+<div class="col-sm-6 col-md-4 project-item">
+                    <a href="/london-marketing-suite">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="/assets/img/portfolio/27_london-marketing-suite/london-marketing-suite-1b.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>London – Marketing suite</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                            <a href="/private-clinic">
+                            <div class="thumbnail projects-thumbnail">
+
+                                <!-- Image -->
+                                <img src="/assets/img/portfolio/28_private-clinic/private-clinic-1b.jpg">
+
+                            </div>
+                            <div class="project-inner-caption">
+                                <!-- Title -->
+                                <div class="project-title-pos">
+                                    <h3>Private clinic</h3>
+                                    <p>&nbsp;</p>
+                                </div>
+                                <!-- City and Date -->
+
+                            </div>
+                        </a>
+                        </div>
+
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                            <a href="/london-show-flat-for-developer">
+                            <div class="thumbnail projects-thumbnail">
+
+                                <!-- Image -->
+                                <img src="/assets/img/portfolio/29_london-show-flat-for-developer/london-show-flat-for-developer-1b.jpg">
+
+                            </div>
+                            <div class="project-inner-caption">
+                                <!-- Title -->
+                                <div class="project-title-pos">
+                                    <h3>London show flat for developer</h3>
+                                    <p>&nbsp;</p>
+                                </div>
+                                <!-- City and Date -->
+
+                            </div>
+                        </a>
+                        </div>
+
+
+
+
+
+
+
+
+
           <!-- Project Item (image, title, city, date and description of project)-->
           <div class="col-sm-6 col-md-4 project-item">
               <a href="/stand-etterem">
               <div class="thumbnail projects-thumbnail">
 
                   <!-- Image -->
-                  <img src="../assets/img/portfolio/20_stand-etterem/stand-etterem-1.jpg" alt="STAND Restaurant">
+                  <img src="/assets/img/portfolio/20_stand-etterem/stand-etterem-1.jpg" alt="STAND Restaurant">
 
               </div>
               <div class="project-inner-caption">
@@ -419,13 +512,13 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/09_kozuleti_budai-bevasarlokozpont-uzlete/kozuleti_budai-bevasarlokozpont-uzlete-1.jpg" alt="Budai Bevásárlóközpont">
+                    <img src="/assets/img/portfolio/09_kozuleti_budai-bevasarlokozpont-uzlete/kozuleti_budai-bevasarlokozpont-uzlete-1.jpg" alt="Budai Bevásárlóközpont">
 
                 </div>
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Buda mall</h3>
+                        <h3>Retail shop</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -440,13 +533,13 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/10_kozuleti_mirage-hotel-sarvar/kozuleti_mirage-hotel-sarvar-1.jpg" alt="Mirage Hotel Sárvár">
+                    <img src="/assets/img/portfolio/10_kozuleti_mirage-hotel-sarvar/kozuleti_mirage-hotel-sarvar-1.jpg" alt="Mirage Hotel Sárvár">
 
                 </div>
                 <div class="project-inner-caption">
                     <!-- Title -->
                     <div class="project-title-pos">
-                        <h3>Mirage Hotel Sárvár</h3>
+                        <h3>BOUTIQUE HOTEL</h3>
                         <p>&nbsp;</p>
                     </div>
                     <!-- City and Date -->
@@ -455,89 +548,7 @@ include('header.php');
             </a>
             </div>
 
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <!-- <div class="col-sm-6 col-md-4 project-item">
-                <a href="/golfklub">
-                <div class="thumbnail projects-thumbnail">
-
-
-                    <img src="../assets/img/portfolio/11_kozuleti_golfklub/kozuleti_golfklub-1.jpg" alt="Pannónia Golf & Country Club">
-
-                </div>
-                <div class="project-inner-caption">
-
-                    <div class="project-title-pos">
-                        <h3>Pannónia Golf & Country Club</h3>
-                        <p>&nbsp;</p>
-                    </div>
-
-
-                </div>
-            </a>
-            </div> -->
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/st-andrea-borbar">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/12_kozuleti_st-andrea-borbar/kozuleti_st-andrea-borbar-1.jpg" alt="St. Andrea Borbár">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>St. Andrea Wine Bar</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/paulaner-etterem">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/13_kozuleti_paulaner-etterem/kozuleti_paulaner-etterem-1.jpg" alt="Paulaner étterem">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Paulaner Restaurant</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
-
-            <!-- Project Item (image, title, city, date and description of project)-->
-            <div class="col-sm-6 col-md-4 project-item">
-                <a href="/duna-garden-hotel-etterem">
-                <div class="thumbnail projects-thumbnail">
-
-                    <!-- Image -->
-                    <img src="../assets/img/portfolio/14_kozuleti_duna-garden-hotel-etterem/kozuleti_duna-garden-hotel-etterem-1.jpg" alt="Duna Garden Hotel és Étterem">
-
-                </div>
-                <div class="project-inner-caption">
-                    <!-- Title -->
-                    <div class="project-title-pos">
-                        <h3>Duna Garden Hotel and Restaurant</h3>
-                        <p>&nbsp;</p>
-                    </div>
-                    <!-- City and Date -->
-
-                </div>
-            </a>
-            </div>
+         
 
         </div>
     </div>
@@ -567,7 +578,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/15_pliszek/pliszek-1b.jpg" alt="Pliszék">
+                    <img src="/assets/img/portfolio/15_pliszek/pliszek-1b.jpg" alt="Pliszék">
 
                 </div>
                 <div class="project-inner-caption">
@@ -588,7 +599,7 @@ include('header.php');
                 <div class="thumbnail projects-thumbnail">
 
                     <!-- Image -->
-                    <img src="../assets/img/portfolio/16_tapetak/tapetak-6b.jpg" alt="Tapéták">
+                    <img src="/assets/img/portfolio/16_tapetak/tapetak-6b.jpg" alt="Tapéták">
 
                 </div>
                 <div class="project-inner-caption">

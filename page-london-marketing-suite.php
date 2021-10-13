@@ -1,7 +1,7 @@
 <?php
-$page_title = 'London apartment in Kensington';
-$project_name = 'london-apartment-in-kensington';
-$project_folder = '25_london-apartment-in-kensington';
+$page_title = 'London – Marketing suite';
+$project_name = 'london-marketing-suite';
+$project_folder = '27_london-marketing-suite';
 $page_description = '';
 $page_keywords = '';
 include('header.php');
@@ -30,52 +30,37 @@ include('header.php');
                             <!-- Image 1 -->
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>   
 
                             <!-- Image 2 -->
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
                             <li>
                                 <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5b.jpg" alt="<?=$page_title ?>">
+                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-5.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li> 
 
-                            <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-6b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li> 
 
-                            <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-7.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-7b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li> 
-
-                            <li>
-                                <a href="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-8.jpg" data-lightbox="example-set">
-                                    <img src="/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-8b.jpg" alt="<?=$page_title ?>">
-                                </a>
-                            </li> 
+                        
 
                             
 
@@ -87,7 +72,8 @@ include('header.php');
                         
                         <!-- Description -->
                         <div class="project-description">
-                            <p>This newly purchased apartment in close to Kensington Park was reimagined by its new owner as sophisticated and elegant space. Part of our duty was to produce upholstered bed structures, curtains and other textile accessories for this property. We decided to use the  ‘FIRE’ rug from the german  company JAB for the wall to wall carpet. By request of our client, we fitted the Prestigious flower wallpaper for one of the bathrooms to elevate the clean and toned down style that is represented throughout the whole apartment. For the curtains and pelmets we used a monochromatic cotton-satin blend fabric.  The Living and Dining room curtains get a leading edge used a contrasting colour (navy blue) and for the sofa in the Living room  we produced multi-coloured pillows from Designers Guild fabrics.
+                            <p>By request of our client, we completed this space surrounded with so much glass by applying soft velvet fabrics. Following the British fire regulations, we delivered fire-resistant fabrics provide by the german textile company JAB.
+
 </p>
                         </div>
                     </div>
@@ -106,7 +92,7 @@ include('header.php');
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">
-                    <a href="/references" class="btn black-btn">See all our references</a>
+                    <a href="/en/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>
