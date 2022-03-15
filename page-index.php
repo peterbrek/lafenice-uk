@@ -106,12 +106,12 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/18_tarsashazi_lakas/tarsashazi-lakas-1.jpg">
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Hillside flat</h3>
+                                        <h3>Lake House</h3>
                                         <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
@@ -124,12 +124,12 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/17_modern_haz/modern-haz-2.jpg">
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-w8-apartment/london-w8-apartment.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Modern family house</h3>
+                                        <h3>London – W8 apartment</h3>
                                         <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
@@ -142,12 +142,12 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/01_videki-csaladi-haz/videki-csaladi-haz-1.jpg">
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-bow-apartment/london-bow-apartment.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Countryside family house</h3>
+                                        <h3>London – Bow apartment</h3>
                                         <p><small>&nbsp;</small></p>
                                     </div>
                                 </div>
@@ -160,85 +160,13 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/02_andrassy-uti-penthouse/andrassy-uti-penthouse-1.jpg">
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/villa-lakas/villa-lakas.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
 
-                                        <h3>Penthouse on Andrássy Avenue</h3>
+                                        <h3>Hillside Villa</h3>
                                         <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/03_budai-lakas/budai-lakas-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Hillside flat</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/04_toparti-nyaralo/toparti-nyaralo-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Lakeside house</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/05_cordia-galerias-lakas/cordia-galerias-lakas-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Cordia Residential Park</h3>
-                                        <!--<p><small>2013</small></p>-->
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image,link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/06_obudai-lakas/obudai-lakas-1.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Loft in Buda-side</h3>
-                                        <!--<p><small>2013</small></p>-->
                                     </div>
                                 </div>
                             </a>

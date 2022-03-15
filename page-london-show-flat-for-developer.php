@@ -84,7 +84,7 @@ include('header.php');
 
                 <!-- View All Projects Button -->
                 <div class="padding-top padding-bottom text-center">
-                    <a href="/en/references" class="btn black-btn">See all our references</a>
+                    <a href="/references" class="btn black-btn">See all our references</a>
                 </div>
 
             </section>
