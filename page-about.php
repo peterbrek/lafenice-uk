@@ -38,7 +38,7 @@ include('header.php');
                     <div class="carousel-inner">
                         <!-- Image -->
                         <div class="item active">
-                            <img src="http://www.lafenice.hu/assets/img/rolunk/bemutatotermunk.jpg">
+                            <img src="../assets/img/rolunk/bemutatotermunk.jpg">
                         </div>
 
 
