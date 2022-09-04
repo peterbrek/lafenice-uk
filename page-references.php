@@ -604,7 +604,7 @@ include('header.php');
                             <div class="project-inner-caption">
                                 <!-- Title -->
                                 <div class="project-title-pos">
-                                    <h3>Floors show room</h3>
+                                    <h3>Tile showroom</h3>
                                     <p>&nbsp;</p>
                                 </div>
                                 <!-- City and Date -->

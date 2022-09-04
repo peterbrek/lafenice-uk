@@ -1,6 +1,6 @@
 <!-- Project header -->
 <?php
-$page_title = 'Floors show room ';
+$page_title = 'Tile showroom';
 
 $uri = $_SERVER['REQUEST_URI'];
 $uri = str_replace("/en","",$uri); 
