@@ -101,6 +101,63 @@ include('header.php');
             <div class="container-fluid projects padding-top">
                 <div class="row">
 
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="references">
+                                <!-- Image -->
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Costa del Sol apartment</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="references">
+                                <!-- Image -->
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-sw-apartman/london-sw-apartman-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>London – apartment</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="references">
+                                <!-- Image -->
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/polgari-lakas/polgari-lakas-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Downtown apartment</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
@@ -119,59 +176,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-w8-apartment/london-w8-apartment.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>London – W8 apartment</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-bow-apartment/london-bow-apartment.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>London – Bow apartment</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
-                        <div class="project-inner">
-                            <a href="references">
-                                <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/villa-lakas/villa-lakas.jpg">
-                                <div class="project-caption">
-                                    <!-- Title and Date -->
-                                    <div class="project-details">
-
-                                        <h3>Hillside Villa</h3>
-                                        <p><small>&nbsp;</small></p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
+                    
 
 
 
