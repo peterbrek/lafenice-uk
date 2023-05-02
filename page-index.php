@@ -101,6 +101,23 @@ include('header.php');
             <div class="container-fluid projects padding-top">
                 <div class="row">
 
+                    <!-- Project Item (image, link and description for your project) -->
+                    <div class="col-sm-6 col-md-3">
+                        <div class="project-inner">
+                            <a href="references">
+                                <!-- Image -->
+                                <img src="http://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
+                                <div class="project-caption">
+                                    <!-- Title and Date -->
+                                    <div class="project-details">
+
+                                        <h3>Luxury Airbnb apartment</h3>
+                                        <p><small>&nbsp;</small></p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
 
                     <!-- Project Item (image, link and description for your project) -->
                     <div class="col-sm-6 col-md-3">
@@ -159,13 +176,11 @@ include('header.php');
 
 
                     <!-- Project Item (image, link and description for your project) -->
-                    <div class="col-sm-6 col-md-3">
+                    <!-- <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
                             <a href="references">
-                                <!-- Image -->
                                 <img src="http://www.lafenice.hu/assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
                                 <div class="project-caption">
-                                    <!-- Title and Date -->
                                     <div class="project-details">
 
                                         <h3>Lake House</h3>
@@ -174,7 +189,7 @@ include('header.php');
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
                     
 
