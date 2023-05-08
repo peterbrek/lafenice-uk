@@ -25,7 +25,7 @@ include('header.php');
                 <div class="row">
 
                     <!-- Project Image Gallery (for more images in your gallery, image width can be changed in styles.css class gallery-inner) -->
-                    <div class="col-sm-12">
+                    <div class="col-md-12">
                         <ul class="gallery-inner">
                           <!-- Image 1 -->
                           <li>

@@ -570,7 +570,19 @@ a:focus {
 	float: left;
 	width: 50%;
 	text-align: center;
+	
 }
+
+@media screen and (max-width: 992px) {
+	.gallery-inner li {
+		list-style: none;
+		float: left;
+		width: 100%;
+		text-align: center;
+		padding-bottom: 15px; 
+	}
+}
+
 .gallery-inner img {
 	display: block;
 	max-width: 100%;
