@@ -21,7 +21,7 @@ include('header.php');
 
             <!-- Project Item -->
             <div class="col-sm-6 col-md-4 project-item">
-                <a href="/en/luxus-airbnb">
+                <a href="/luxus-airbnb">
                 <div class="thumbnail projects-thumbnail">
                 <img src="http://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
                 </div>
@@ -531,6 +531,81 @@ include('header.php');
     <!-- Projects -->
     <div class="container">
         <div class="row">
+
+
+
+
+
+               <!-- Project Item (image, title, city, date and description of project)-->
+               <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/hotel-cardoner">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="assets/img/portfolio/hotel-cardoner/hotel-cardoner-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Hotel Cardoner</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/tura-iroda">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="assets/img/portfolio/tura-iroda/tura-iroda-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Tura Office</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+        <!-- Project Item (image, title, city, date and description of project)-->
+        <div class="col-sm-6 col-md-4 project-item">
+                    <a href="/ugron-kastely">
+                    <div class="thumbnail projects-thumbnail">
+
+                        <!-- Image -->
+                        <img src="assets/img/portfolio/ugron-kastely/ugron-kastely-1.jpg">
+
+                    </div>
+                    <div class="project-inner-caption">
+                        <!-- Title -->
+                        <div class="project-title-pos">
+                            <h3>Ugron Castle</h3>
+                            <p>&nbsp;</p>
+                        </div>
+                        <!-- City and Date -->
+
+                    </div>
+                </a>
+                </div>
+
+
+
+
+
+
 
 
 
