@@ -48,8 +48,8 @@ include('header.php');
 
              <div class="col-md-10 col-md-offset-1" style="margin-top: 45px">
                 <!-- Description -->
-                <a href="http://www.seedlingtrust.org/" target="_blank"><img src="/assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Seedling Trust" style="height: 125px; margin-bottom: 25px;"></a>
-                <p>We support highly the <a href="http://www.seedlingtrust.org/" target="_blank">Seedling Trust.</a></p>
+                <a href="https://www.seedlingtrust.org/" target="_blank"><img src="/assets/img/rolunk/csemete-alapitvany-logo.gif" alt="Seedling Trust" style="height: 125px; margin-bottom: 25px;"></a>
+                <p>We support highly the <a href="https://www.seedlingtrust.org/" target="_blank">Seedling Trust.</a></p>
 
 
             </div>
@@ -136,33 +136,33 @@ include('header.php');
 
 
             <div class="col-sm-6 col-md-2 col-md-offset-1">
-                <a href="http://www.jab.de/" target="_blank">
+                <a href="https://www.jab.de/" target="_blank">
                     <img src="/assets/img/termekek/jab-logo.jpg" width="160px">
                 </a>
             </div>
 
             <div class="col-sm-6 col-md-2">
-                <a href="http://www.saum-und-viebahn.de/" target="_blank">
+                <a href="https://www.saum-und-viebahn.de/" target="_blank">
                     <img src="/assets/img/termekek/saum-logo.jpg" width="160px">
                 </a>
             </div>
 
             <div class="col-sm-6 col-md-2">
-                <a href="http://www.prestigious.co.uk/" target="_blank">
+                <a href="https://www.prestigious.co.uk/" target="_blank">
                     <img src="/assets/img/termekek/pt-logo.jpg" width="160px">
                 </a>
             </div>
 
 
             <div class="col-sm-6 col-md-2">
-                <a href="http://www.fischbacher.com/" target="_blank">
+                <a href="https://www.fischbacher.com/" target="_blank">
                     <img src="/assets/img/termekek/fsb-logo.jpg" width="160px">
                 </a>
             </div>
 
 
             <div class="col-sm-6 col-md-2">
-                <a href="http://www.umbroll.hu/" target="_blank">
+                <a href="https://www.umbroll.hu/" target="_blank">
                     <img src="/assets/img/termekek/umbroll-logo.jpg" width="160px">
                 </a>
             </div>

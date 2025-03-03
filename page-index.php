@@ -106,7 +106,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
+                                <img src="https://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -124,7 +124,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">
+                                <img src="https://www.lafenice.hu/assets/img/portfolio/costadelsol-apartman/costadelsol-apartman-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -142,7 +142,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/london-sw-apartman/london-sw-apartman-1.jpg">
+                                <img src="https://www.lafenice.hu/assets/img/portfolio/london-sw-apartman/london-sw-apartman-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -161,7 +161,7 @@ include('header.php');
                         <div class="project-inner">
                             <a href="references">
                                 <!-- Image -->
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/polgari-lakas/polgari-lakas-1.jpg">
+                                <img src="https://www.lafenice.hu/assets/img/portfolio/polgari-lakas/polgari-lakas-1.jpg">
                                 <div class="project-caption">
                                     <!-- Title and Date -->
                                     <div class="project-details">
@@ -179,7 +179,7 @@ include('header.php');
                     <!-- <div class="col-sm-6 col-md-3">
                         <div class="project-inner">
                             <a href="references">
-                                <img src="http://www.lafenice.hu/assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
+                                <img src="https://www.lafenice.hu/assets/img/portfolio/toparti-haz-lakehouse/toparti-haz-lakehouse.jpg">
                                 <div class="project-caption">
                                     <div class="project-details">
 

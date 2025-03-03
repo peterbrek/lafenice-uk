@@ -23,7 +23,7 @@ include('header.php');
             <div class="col-sm-6 col-md-4 project-item">
                 <a href="/luxus-airbnb">
                 <div class="thumbnail projects-thumbnail">
-                <img src="http://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
+                <img src="https://www.lafenice.hu/assets/img/portfolio/luxus-airbnb/luxus-airbnb-1.jpg">
                 </div>
                 <div class="project-inner-caption">
                         <div class="project-title-pos">

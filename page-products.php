@@ -74,7 +74,7 @@ include('header.php');
                     <div class="team-caption-ext">
                         <!-- Info -->
                         <h5>Wallpapers</h5>
-                        <h5><a href="https://www.phillipjeffries.com/">Phillip Jeffries</a>&nbsp;&nbsp;<a href="http://www.casamance.com/en/collections/">Casamance</a></h5>
+                        <h5><a href="https://www.phillipjeffries.com/">Phillip Jeffries</a>&nbsp;&nbsp;<a href="https://www.casamance.com/en/collections/">Casamance</a></h5>
                         <h5><a href="https://www.cole-and-son.com/en/">Cole and Son</a></h5>
                     </div>
                 </div>
@@ -88,7 +88,7 @@ include('header.php');
                   <div class="team-caption-ext">
                       <!-- Info -->
                       <h5>Wall murals</h5>
-                      <h5><a href="http://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
+                      <h5><a href="https://www.londonart.it/">Londonart</a>&nbsp;&nbsp;<a href="https://eng.momenti-casa.it/collections/crazy-paper-208">Momenti Casa</a></h5>
 
                   </div>
               </div>
@@ -562,7 +562,7 @@ include('header.php');
                     <div class="team-caption">
                         <!-- Info -->
                         <h5>Rugs</h5>
-                        <h5><a href="http://www.carpetedition.com/homepage.html">Carpet Edition</a>&nbsp;&nbsp;<a href="https://www.warli.it/">Warli</a></h5>
+                        <h5><a href="https://www.carpetedition.com/homepage.html">Carpet Edition</a>&nbsp;&nbsp;<a href="https://www.warli.it/">Warli</a></h5>
 
                     </div>
                 </div>
@@ -780,14 +780,14 @@ include('header.php');
 
             <!-- Client Image -->
             <div class="col-sm-4 col-md-offset-3 col-md-2">
-                <a href="http://www.jab.de/" target="_blank">
+                <a href="https://www.jab.de/" target="_blank">
                     <img src="../assets/img/termekek/jab-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
             <div class="col-sm-4 col-md-2">
-                <a href="http://www.fischbacher.com/" target="_blank">
+                <a href="https://www.fischbacher.com/" target="_blank">
                     <img src="../assets/img/termekek/fsb-logo.jpg" width="160px">
                 </a>
             </div>
@@ -810,14 +810,14 @@ include('header.php');
 
             <!-- Client Image -->
             <div class="col-sm-4 col-md-2">
-                <a href="http://www.leha.eu/" target="_blank">
+                <a href="https://www.leha.eu/" target="_blank">
                     <img src="../assets/img/termekek/leha-logo.jpg" width="160px">
                 </a>
             </div>
 
             <!-- Client Image -->
             <div class="col-sm-4 col-md-2">
-                <a href="http://www.sanelin.com/" target="_blank">
+                <a href="https://www.sanelin.com/" target="_blank">
                     <img src="../assets/img/termekek/sanelin-logo.jpg" width="160px">
                 </a>
             </div>

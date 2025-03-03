@@ -2,3 +2,6 @@ RewriteEngine on
 RewriteRule ^index([^\.]+)$ index.php?item=$1
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^\.]+)$ index.php?url=$1
+
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://lafeniceinteriors.co.uk/$1 [R,L]

@@ -29,29 +29,29 @@ include('header.php');
                         <ul class="gallery-inner">
                           <!-- Image 1 -->
                           <li>
-                              <a href="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
-                                  <img src="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" alt="<?=$page_title ?>">
+                              <a href="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" data-lightbox="example-set">
+                                  <img src="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-1.jpg" alt="<?=$page_title ?>">
                               </a>
                           </li>
 
                           <!-- Image 1 -->
                             <li>
-                                <a href="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
-                                    <img src="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
+                                <a href="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" data-lightbox="example-set">
+                                    <img src="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-2.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
                             <!-- Image 2 -->
                             <li>
-                                <a href="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
-                                    <img src="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
+                                <a href="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" data-lightbox="example-set">
+                                    <img src="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-3.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 
                             <!-- Image 2 -->
                             <li>
-                                <a href="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
-                                    <img src="http://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
+                                <a href="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" data-lightbox="example-set">
+                                    <img src="https://www.lafenice.hu/assets/img/portfolio/<?=$project_folder ?>/<?=$project_name ?>-4.jpg" alt="<?=$page_title ?>">
                                 </a>
                             </li>
 

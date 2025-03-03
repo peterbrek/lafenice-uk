@@ -30,7 +30,7 @@ include('header.php');
                 <!-- Title -->
                 
                     <div class="service-title">
-                        <h3><a href="http://designbutorcsomagok.hu/en/" target="_blank">Design Furniture Packages</a></h3>
+                        <h3><a href="https://www.lafenice.hu/designbutorcsomagok/en/" target="_blank">Design Furniture Packages</a></h3>
                     </div>
                 </a>
                 <div class="title-divider-small"></div>
